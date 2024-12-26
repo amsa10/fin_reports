@@ -9,5 +9,5 @@ This project generates a weekly report on the Shale Oil market using stock data 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shale-oil-market-analysis.git
+   git clone https://github.com/yourusername/fin_reports.git
    cd shale-oil-market-analysis/src
