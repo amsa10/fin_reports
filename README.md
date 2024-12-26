@@ -11,3 +11,6 @@ This project generates a weekly report on the Shale Oil market using stock data 
    ```bash
    git clone https://github.com/yourusername/fin_reports.git
    cd shale-oil-market-analysis/src
+
+
+https://colab.research.google.com/notebooks/intro.ipynb
